@@ -1,6 +1,6 @@
 # Jogo da Adivinhação
 
-[Clique aqui para acessar](https://https://veigaeduardo.github.io/Jogo-Adivinhacao/)
+[Clique aqui para acessar](https://veigaeduardo.github.io/Jogo-Adivinhacao/)
 
 ## Tecnologias
 
